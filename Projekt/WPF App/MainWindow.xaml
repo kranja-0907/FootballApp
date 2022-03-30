@@ -1,0 +1,253 @@
+﻿<Window x:Class="WPF_App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:lang="clr-namespace:WPF_App.Properties"
+        xmlns:local="clr-namespace:WPF_App"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1200">
+    
+    <TabControl>
+        <TabItem>
+            <TabItem.Header>
+                <Label
+                    Content="{x:Static lang:Resources.tabTeams}"
+                    FontWeight="Bold"></Label>
+            </TabItem.Header>
+            <TabItem.Content>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Label
+                         Content="{x:Static lang:Resources.lblHomeTeam}"
+                         Grid.Row="0"
+                         Grid.Column="0" Foreground="Black"/>
+                    <ComboBox
+                         Grid.Row="1"
+                         Grid.Column="0"
+                         x:Name="cbHomeTeam"
+                         SelectionChanged="cbHomeTeam_SelectionChanged"/>
+
+                    <Label
+                         Content="{x:Static lang:Resources.lblAwayTeam}"
+                         Grid.Row="2"
+                         Grid.Column="0" 
+                         Foreground="Black"
+                         Margin="0 20 0 0"/>
+                    <ComboBox
+                         Grid.Row="3"
+                         Grid.Column="0"
+                         x:Name="cbAwayTeam"
+                         SelectionChanged="cbAwayTeam_SelectionChanged"/>
+
+                    <Grid
+                        Grid.Row="4"
+                        Grid.Column="0"
+                        Margin="15 50">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+
+                        <Label
+                            x:Name="tableHomeTeam"
+                            Content="{Binding ElementName=cbHomeTeam, Path=SelectedItem}"
+                            Grid.Column="0"
+                            Grid.Row="0"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                            Margin="5"
+                            Foreground="Black"/>
+                        <Label
+                            x:Name="tableAwayTeam"
+                            Content="{Binding ElementName=cbAwayTeam, Path=SelectedItem}"
+                            Grid.Column="1"
+                            Grid.Row="0"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center" 
+                            Margin="5"
+                            Foreground="Black"/>
+                        <Label
+                            Grid.Row="1"
+                            Grid.Column="0"
+                            x:Name="HomeTeamScore" 
+                            Foreground="Black"
+                            HorizontalAlignment="Center"
+                            Margin="5"/>
+                        <Label
+                            Grid.Row="1"
+                            Grid.Column="1"
+                            x:Name="AwayTeamScore" 
+                            Foreground="Black"
+                            HorizontalAlignment="Center"
+                            Margin="5"/>
+                        <Button
+                            Grid.Column="0"
+                            Grid.Row="2"
+                            Content="More"
+                            Margin="50 2" 
+                            Background="DarkGreen" 
+                            Foreground="White"
+                            Click="MoreHomeTeamButton_Click"/>
+                        <Button
+                            Grid.Column="1"
+                            Grid.Row="2"
+                            Content="More"
+                            Margin="50 2"
+                            Background="DarkGreen" 
+                            Foreground="White"
+                            Click="MoreAwayTeamButton_Click"
+                            x:Name="btnMore"/>
+                    </Grid>
+                </Grid>
+            </TabItem.Content>
+        </TabItem>
+        <TabItem>
+            <TabItem.Header>
+                <Label
+                    Content="{x:Static lang:Resources.tabPlayers}"
+                    FontWeight="Bold"/>
+            </TabItem.Header>
+            
+            <TabItem.Content>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Image 
+                        Source="C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\Images\FootballFieldTransparent.png"
+                        Stretch="Fill" 
+                        Grid.Column="0"
+                        Grid.Row="0"
+                        Grid.ColumnSpan="11"
+                        Grid.RowSpan="7"/>
+
+                    <!--HOMETEAM-->
+                    <!--GOALIE-->
+                    <StackPanel
+                        Grid.Column="0"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        x:Name="lblGoalie"/>
+
+                    <!--DEFENDERS-->
+                    <StackPanel
+                        Grid.Column="2"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center"
+                        x:Name="lblDefenders"/>
+
+                    <!--MIDFIELDER-->
+                    <StackPanel
+                        Grid.Column="3"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        x:Name="lblMidfielder"/>
+
+                    <!--ATTACKER/FORWARD-->
+                    <StackPanel
+                        Grid.Column="4"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center"
+                        x:Name="lblAttackers"/>
+
+                    <!--AWAYTEAM-->
+                    <!--GOALIE-->
+                    <StackPanel
+                        Grid.Column="10"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        x:Name="lblGoalieA"/>
+
+                    <!--DEFENDERS-->
+                    <StackPanel
+                        Grid.Column="8"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        x:Name="lblDefenderA"/>
+
+                    <!--MIDFIELDER-->
+                    <StackPanel
+                        Grid.Column="7"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        x:Name="lblMidfielderA"/>
+
+                    <!--ATTACKERS-->
+                    <StackPanel
+                        Grid.Column="6"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Center"
+                        x:Name="lblAttackerFirstA"/>
+
+                </Grid>
+            </TabItem.Content>
+        </TabItem>
+        
+        <TabItem>
+            <TabItem.Header>
+                <Label
+                    Content="{x:Static lang:Resources.tabSettings}"
+                    FontWeight="Bold"></Label>
+            </TabItem.Header>
+            <TabItem.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+
+                    <Button 
+                        x:Name="btnSettings"
+                        Grid.Row="0"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Content="{x:Static lang:Resources.btnSettings}"
+                        Padding="20"
+                        Width="200"
+                        Click="btnSettings_Click"/>
+                    <Button 
+                        x:Name="btnExit"
+                        Grid.Row="1"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Content="{x:Static lang:Resources.btnExit}"
+                        Padding="20"
+                        Width="200"
+                        Click="btnExit_Click"/>
+                </Grid>
+
+            </TabItem.Content>
+        </TabItem>
+
+
+    </TabControl>
+</Window>

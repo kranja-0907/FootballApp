@@ -1,0 +1,48 @@
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Windows Forms Aplication.exe.config
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Windows Forms Aplication.exe
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Windows Forms Aplication.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\hr\Windows Forms Aplication.resources.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\DAL.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\RestSharp.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Buffers.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Memory.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Text.Json.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.ValueTuple.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\DAL.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\DAL.dll.config
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\RestSharp.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Buffers.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Memory.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Text.Json.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\bin\Debug\System.ValueTuple.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.csproj.AssemblyReference.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.exe.config
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.ChangePictureForm.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.MainForm.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.Player.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.RankMatches.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.RankPlayer.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.SettingsForm.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.Properties.Resources.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.SettingsForm.hr.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.csproj.GenerateResource.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.csproj.CoreCompileInputs.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\hr\Windows Forms Aplication.resources.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.csproj.CopyComplete
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.exe
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows Forms Aplication.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.MainForm.hr.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.ConfirmationPopUp.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\Windows Forms Aplication\obj\Debug\Windows_Forms_Aplication.ClosingPopUp.resources

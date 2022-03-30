@@ -1,0 +1,36 @@
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.csproj.AssemblyReference.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\MainWindow.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Player.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Settings.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\App.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App_MarkupCompile.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App_MarkupCompile.lref
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\WPF App.exe.config
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\WPF App.exe
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\WPF App.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\DAL.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\RestSharp.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\DAL.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\DAL.dll.config
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\RestSharp.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\MainWindow.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Player.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Settings.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.g.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF_App.Properties.Resources.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.csproj.GenerateResource.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.csproj.CoreCompileInputs.cache
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.csproj.CopyComplete
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.exe
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF App.pdb
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Representation.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\Representation.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\PlayerControlAwayTeam.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\PlayerControlHomeTeam.g.cs
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\PlayerControlAwayTeam.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\PlayerControlHomeTeam.baml
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\bin\Debug\hr\WPF App.resources.dll
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\WPF_App.Properties.Resources.hr.resources
+C:\Users\Leon Kranjcevic\OneDrive - Visoko uciliste Algebra\Desktop\OOP projekt\PROJEKT\Projekt\WPF App\obj\Debug\hr\WPF App.resources.dll
